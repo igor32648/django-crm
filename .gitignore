@@ -1,0 +1,18 @@
+# Arquivos de configuração locais
+*.sqlite3
+*.pyc
+*.pyo
+*.env
+
+# Arquivos de mídia
+media/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos compilados
+__pycache__/
+
+# Ambiente virtual
+venv/
+env/
